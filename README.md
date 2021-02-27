@@ -24,7 +24,7 @@ Edit di `.env`
 
 ## Run
 ```bash
-> cd Anonymxs
+> cd AnonymousBot
 > npm i
 > npm start
 ```
